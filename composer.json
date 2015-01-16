@@ -1,13 +1,12 @@
 {
-    "name": "silverstripe-themes/simple",
-    "description": "The SilverStripe simple theme (default SilverStripe 3 theme)",
+    "name": "prozacjellybeans/silverdragon",
+    "description": "The SilverStripe SilverDragon theme",
     "type": "silverstripe-theme",
     "keywords": ["silverstripe", "theme"],
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Sara Tušar (Innovaif)",
-            "homepage": "http://www.saratusar.com"
+            "name": "<add some authors>",
         }
     ],
     "require": {
