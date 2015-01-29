@@ -1,13 +1,21 @@
 {
-    "name": "silverstripe-themes/simple",
-    "description": "The SilverStripe simple theme (default SilverStripe 3 theme)",
+    "name": "silverstripe-themes/silverdragon",
+    "description": "Catalyst Academy SS theme",
     "type": "silverstripe-theme",
     "keywords": ["silverstripe", "theme"],
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Sara Tušar (Innovaif)",
-            "homepage": "http://www.saratusar.com"
+            "name": "Emma O'Keefe"
+        },
+        {
+            "name": "Gaby Fransen"
+        },
+        {
+            "name": "Lana Cleverley"
+        },
+        {
+            "name": "James Merrall"
         }
     ],
     "require": {
